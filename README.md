@@ -9,8 +9,8 @@ Due to the descriptive nature of this work, it is necessary to use technical des
 The repository contains __4 folders__ :
   
   - [__desktop_environments__](./desktop_environments "Desktop Environmnents folder") : describes possible interactions with the __desktop environment__
-  - [__gui_Softwares__](./gui_softwares "GUI Softwares folder") : describes possible interactions for a given program type with a __GUI__
-  - [__cli_Softwares__](./cli_softwares "CLI Softwares folder") : describes possible interactions for a given program type with a __CLI__
+  - [__gui_softwares__](./gui_softwares "GUI Softwares folder") : describes possible interactions for a given program type with a __GUI__
+  - [__cli_softwares__](./cli_softwares "CLI Softwares folder") : describes possible interactions for a given program type with a __CLI__
   - [__computer_hardware__](./computer_hardware "Computer Hardware folder") : describes possible interactions with computer hardware
   
 It also contains __1 file__ :
