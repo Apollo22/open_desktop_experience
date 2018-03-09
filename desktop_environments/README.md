@@ -24,6 +24,10 @@ Examples :
 ## Wallpaper manager
 ### Widgets
 ## Desktop icons
+## Theme manager
+Colors, Fonts, Character sizes (access other componants files about graphics)
+## Desktop Environment manager
+Quick switching elemtents
  
 ## Notifications manager
  
