@@ -1,4 +1,4 @@
-# open_software_standards
+# Open Desktop Experience
 
 This repository aims to describe ways we could be interacting with our computers, both through the desktop environments and through specific softwares.
 
