@@ -15,6 +15,6 @@ The repository contains __4 folders__ :
   
 It also contains __1 file__ :
   
-  - __dictionnary__ : describes technical words of expressions
+  - [__dictionnary.md__](./dictionnary.md "Dictionnary File") : describes technical words of expressions
  
  NB: I am currently alone on this project, and I am a native french speaker, so don't hesitate if you spot errors.
