@@ -12,10 +12,18 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 ### Applications (windows taskbar)
 ### Status
 ### Settings (like on windows when 4 fingers click)
+### Application launcher
+Start menu (ubuntu menu) vs application launcher (portable apps
+
+Examples :
+- Windows 8 tiles
+- Ubuntu search
+- Windows 10 search
+- Ubuntu applications
+
 ## Wallpaper manager
 ### Widgets
-## Icons
-## Application launcher
+## Desktop icons
  
 ## Notifications manager
  
