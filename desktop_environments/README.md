@@ -2,17 +2,19 @@
 
 A desktop environment is a collection of softwares that provide a __desktop environment user experience__. There are composed of the following types of softwares :
 
-## Windows display
+## Desktop Environment Core
 ### Windows Manager
 ### Windows Compositor
 ### Workspace / Virtual desktops manager / pager
 
 ## Desktop
 ## Taskbars / Toolbars
-### Applications
+### Applications (windows taskbar)
 ### Status
+### Settings (like on windows when 4 fingers click)
 ## Wallpaper manager
 ### Widgets
+## Icons
 ## Application launcher
  
 ## Notifications manager
@@ -21,7 +23,7 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 ## Logout / Shutdown screen
 ## Screensaver
 
-## Settings softwares
+## Graphical Settings softwares
 ### Setting software
 ### Languages
 ### I/O Manager
@@ -32,10 +34,12 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 ### Power manager
 ### Storage manager
 
-## Specific Core Softwares
+## Specific core softwares
  Terminal emulator
  File manager
+ Package manager
  
+## Other softwares
  Text editor
  Image viewer
  Document viewer (PDF, Latex, Ebooks, ...)
@@ -47,3 +51,4 @@ A desktop environment is a collection of softwares that provide a __desktop envi
  Screen recorder
  
  Office suite
+ IRC Client
