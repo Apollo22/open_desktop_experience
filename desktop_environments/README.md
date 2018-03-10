@@ -3,17 +3,18 @@
 A desktop environment is a collection of softwares that provide a __desktop environment user experience__. There are composed of the following types of softwares :
 
 ## Desktop Environment Core
+### Display Server
 ### Windows Manager
 ### Windows Compositor
-### Workspace / Virtual desktops manager / pager
+### Workspace manager / Virtual desktops pager
 
 ## Desktop
-## Taskbars (toolbars specific to the desktop)
-### Applications (windows taskbar)
-### Status
-### Settings (like on windows when 4 fingers click)
+### Taskbars (toolbars specific to the desktop)
+#### Application
+#### Status
+#### Settings tweaker
 ### Application launcher
-Start menu (ubuntu menu) vs application launcher (portable apps
+Start menu (ubuntu menu) vs application launcher (portable apps) vs dmenu
 
 Examples :
 - Windows 8 tiles
@@ -21,21 +22,22 @@ Examples :
 - Windows 10 search
 - Ubuntu applications
 
-## Wallpaper manager
-### Widgets
-## Desktop icons
-## Theme manager
+### Wallpaper manager
+#### Widgets
+#### Desktop icons
+### Theme manager
 Colors, Fonts, Character sizes (access other componants files about graphics)
-## Desktop Environment manager
+## Desktop manager ?
 Quick switching elemtents
  
-## Notifications manager
+### Notifications manager
  
-## Login Screen / Display Manager
-## Logout / Shutdown screen
-## Screensaver
+### Login Screen / Display Manager
+### Logout / Shutdown screen
+### Screensaver
 
-## Graphical Settings softwares
+## Settings softwares
+CLI vs GUI
 ### Setting software
 ### Languages
 ### I/O Manager
