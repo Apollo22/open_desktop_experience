@@ -1,4 +1,4 @@
-n# Desktop Environment
+# Desktop Environment
 
 A desktop environment is a collection of softwares that provide a __desktop environment user experience__. There are composed of the following types of softwares :
 
@@ -8,7 +8,7 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 ### Workspace / Virtual desktops manager / pager
 
 ## Desktop
-## Taskbars / Toolbars
+## Taskbars (not to confuse with a toolbar, which is specific to an application)
 ### Applications (windows taskbar)
 ### Status
 ### Settings (like on windows when 4 fingers click)
