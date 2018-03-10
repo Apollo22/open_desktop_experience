@@ -8,7 +8,7 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 ### Workspace / Virtual desktops manager / pager
 
 ## Desktop
-## Taskbars (not to confuse with a toolbar, which is specific to an application)
+## Taskbars (toolbars specific to the desktop)
 ### Applications (windows taskbar)
 ### Status
 ### Settings (like on windows when 4 fingers click)
