@@ -4,9 +4,17 @@ A desktop environment is a collection of softwares that provide a __desktop envi
 
 ## Desktop Environment Core
 ### Display Server
+
+From the user perspective, the display server is invisible. However, my understanding of how it works is limited, so feel free to complete it.
+
 ### Windows Manager
 ### Windows Compositor
+
+This is often implemented by the windows manager
+
 ### Workspace manager / Virtual desktops pager
+
+This is often implemented by the windows manager
 
 ## Desktop
 ### Taskbars (toolbars specific to the desktop)
