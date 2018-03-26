@@ -1,4 +1,8 @@
 # Windows Manager
+## Summary
+### Commands list[# Commands list]
+
+# Commands list
 
 NB: # marks the limits of the screen
 
@@ -78,5 +82,6 @@ Other
 Ability for applications to override the title bar ? (like firefox)
 
 Windows snapping (bring floating window to an edge/corner to resize)
+  Snap assist (display thumbnail of opened windows)
 
 When stacking, either only highlight current window, or move windows title bar to the bottom/top or right/left
