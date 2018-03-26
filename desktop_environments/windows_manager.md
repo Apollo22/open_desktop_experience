@@ -1,4 +1,7 @@
 # Windows Manager
+
+The window manager provides a default title bar for applications
+
 ## Summary
 - [Commands list](#commands_list)
 
@@ -85,3 +88,5 @@ Windows snapping (bring floating window to an edge/corner to resize)
   Snap assist (display thumbnail of opened windows)
 
 When stacking, either only highlight current window, or move windows title bar to the bottom/top or right/left
+
+Ability to disable mouse interactions to improve performances
