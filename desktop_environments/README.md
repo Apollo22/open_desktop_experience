@@ -10,10 +10,12 @@ From the user perspective, the display server is invisible. However, my understa
 ### Windows Manager
 ### Windows Compositor
 
-This is often implemented by the windows manager
+A windows compositor is used to provide animations to the display of windows.
+This is often implemented by the windows manager.
 
 ### Workspace manager / Virtual desktops pager
 
+A workspace manager is used to organise windows on 'virtual' screens, allowing you to organise your windows.
 This is often implemented by the windows manager
 
 ## Desktop
